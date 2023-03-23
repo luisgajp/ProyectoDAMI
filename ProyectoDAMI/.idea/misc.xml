@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/drawable/ic_baseline_library_add_24.xml" value="0.1" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/drawable/ic_baseline_library_books_24.xml" value="0.1" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/activity_counter_step.xml" value="0.21" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/activity_libros.xml" value="0.22" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/activity_login.xml" value="0.15625" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/activity_menu.xml" value="0.33" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/activity_registro.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/dialog_libro.xml" value="0.203125" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/fragment_catalogo.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/fragment_libro.xml" value="0.19947916666666668" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/item_catalago.xml" value="0.25" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/item_home.xml" value="0.22" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/item_libro.xml" value="0.19947916666666668" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/layout/item_libros.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProyectoDAMI/app/src/main/res/menu/menu_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.186" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/drawable/ic_launcher_background.xml" value="0.186" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/activity_libros.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/activity_menu.xml" value="0.20427350427350427" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/activity_platos.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/dialog_libro.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/fragment_catalogo.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/fragment_libro.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/item_catalago.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/item_home.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/item_libro.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/item_libros.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/layout/item_platos.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/ProyectoDAMI/app/src/main/res/menu/menu_navigation.xml" value="0.25" />
+        <entry key="..\:/cibertec/ciclo5/documentosDAMi/ProyectoDAMI/app/src/main/res/layout/activity_login.xml" value="0.17592592592592593" />
+        <entry key="..\:/cibertec/ciclo5/documentosDAMi/ProyectoDAMI/app/src/main/res/layout/activity_main.xml" value="0.21145833333333333" />
+        <entry key="..\:/cibertec/ciclo5/documentosDAMi/ProyectoDAMI/app/src/main/res/layout/activity_registro.xml" value="0.22135416666666666" />
+        <entry key="..\:/cibertec/ciclo5/documentosDAMi/ProyectoDAMI/app/src/main/res/layout/dialog_libro.xml" value="0.221875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

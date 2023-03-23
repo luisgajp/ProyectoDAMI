@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Proyecto-DAMI</string>
+    <string name="libros">Libros</string>
+    <string name="add_libros">AddLibros</string>
+    <string name="titulo">titulo</string>
+    <string name="autor">autor</string>
+    <string name="precio">precio</string>
+
+</resources>

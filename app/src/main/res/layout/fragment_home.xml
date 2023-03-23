@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/celeste"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.cibertec.proyecto.ui.home.ActivityHome">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="264dp"
+        android:src="@drawable/fondo"
+        android:id="@+id/fondo"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="0dp"></ImageView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/fondo"
+        android:id="@+id/tituloMision"
+        android:text="MISION"
+        android:textSize="30sp"
+        android:layout_margin="5dp"
+        android:fontFamily="sans-serif-black"
+        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/misiontxt"
+        android:textSize="19sp"
+        android:layout_margin="5dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        app:layout_constraintTop_toBottomOf="@+id/tituloMision"
+        android:text="Garantizar el acceso a la información para la investigación, desarrollo científico y tecnológico, y disfrute del ciudadano."
+        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/misiontxt"
+        android:id="@+id/visionTitulo"
+        android:text="VISION"
+        android:textSize="30sp"
+        android:layout_margin="5dp"
+        android:fontFamily="sans-serif-black"
+        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/visionTitulo"
+        android:id="@+id/visiontxt"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:textSize="19sp"
+        android:layout_margin="5dp"
+        android:text="Deseamos implementar el Sistema Nacional de Bibliotecas como una red en la cual las bibliotecas, de acuerdo a estándares de calidad, promueven el acceso y uso del material documental-bibliográfico; contribuyendo al desarrollo humano y la innovación con enfoque inclusivo e intercultural."
+        ></TextView>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btnmapa"
+        android:layout_width="60dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ic_baseline_map_24"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:backgroundTint="@color/azulmarino"
+        app:shapeAppearanceOverlay="@style/reviewShape"
+        >
+    </com.google.android.material.floatingactionbutton.FloatingActionButton>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

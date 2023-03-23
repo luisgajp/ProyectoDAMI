@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609414835171",
+    "project_id": "proyectodami-15703",
+    "storage_bucket": "proyectodami-15703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609414835171:android:6dc2f458e1433c74dfced6",
+        "android_client_info": {
+          "package_name": "com.cibertec.proyecto_dami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609414835171-cnb6nmn767cdj01866s2p0djtp1irp6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Zov5KeNmLSnxcCMJcM_hmheedEquGsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609414835171-cnb6nmn767cdj01866s2p0djtp1irp6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
